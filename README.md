@@ -1,2 +1,0 @@
-# grocycheck
-checklist and recipe
